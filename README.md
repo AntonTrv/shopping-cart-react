@@ -1,3 +1,5 @@
+I used json-server for a quick back-end. You may take it here: https://www.npmjs.com/package/json-server. There is a short launch command in App.js.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
