@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+$font: 'Roboto', sans-serif;
+$softWhite: #f2f2f2;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: $font;
+}
+
+
+body{
+  background-color: rgba(45,45,45,0.98);
+}
+
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 90%;
+  margin: auto;
+
+  h1 {
+    color:$softWhite
+  }
+}

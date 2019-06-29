@@ -1,0 +1,52 @@
+{
+  "products": [
+
+    {
+
+      "id": 1,
+
+      "productName": "Телефон",
+
+      "price": 50000,
+
+      "amount":2,
+
+      "maxPerPerson":2,
+
+      "image": "http://www.prime.ae/wp-content/uploads/2018/10/iPhone-XS-Silver.png"
+
+    },
+
+    {
+
+      "id": 2,
+
+      "productName": "Телевизор",
+
+      "price": 60000,
+
+      "amount":3,
+
+      "maxPerPerson":1,
+
+      "image":"https://dmayeb5ar6kq1.cloudfront.net/common/5c486d7780248_S56_bis.png"
+
+    },
+
+    {
+
+      "id": 3,
+
+      "productName": "Компьютер",
+
+      "price": 40000,
+
+      "amount":4,
+
+      "maxPerPerson":5,
+
+      "image": "https://ibuildmacs.com/site/templates/dist/ibuildmacs/images/products/macpro-1.png"
+
+    }
+  ]
+}

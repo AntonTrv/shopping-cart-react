@@ -1,0 +1,43 @@
+$grey : #111;
+$softWhite: #f2f2f2;
+
+.cart {
+  width: 20%;
+  background-color: $softWhite;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  overflow: visible;
+  color: $grey;
+  max-height: 50vh;
+  overflow-y: scroll;
+
+  section {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+
+    .cart-total {
+
+      display: flex;
+      flex-direction: column;
+
+
+      b {
+        padding: 10px 0;
+      }
+    }
+
+      td,button {
+        padding: 10px 0;
+      }
+
+    button {
+      cursor: pointer;
+      width: 20px;
+    }
+
+  }
+
+}
